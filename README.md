@@ -142,6 +142,16 @@ This project helped me understand:
 
 ---
 
+# Screenshots
+
+### Dashboard
+
+![Dashboard](voice_ai_system/screenshots/dashboard.png)
+
+[View Full Image](voice_ai_system/screenshots/dashboard.png)
+
+
+
 ## Author
 
 Basuki Nath
