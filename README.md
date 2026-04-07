@@ -150,7 +150,11 @@ This project helped me understand:
 
 [View Full Image](voice_ai_system/screenshots/Dashboard.png)
 
+### API response
 
+![Dashboard](voice_ai_system/screenshots/API Response (Postman).png)
+
+[View Full Image](voice_ai_system/screenshots/API Response (Postman).png)
 
 ## Author
 
