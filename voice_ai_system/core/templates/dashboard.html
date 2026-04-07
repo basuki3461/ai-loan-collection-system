@@ -1,0 +1,18 @@
+<h1>AI System Dashboard</h1>
+
+<p>Total Customers: {{ total_customers }}</p>
+<p>Total Loans: {{ total_loans }}</p>
+<p>Total Conversations: {{ total_logs }}</p>
+
+<p>Paid Loans: {{ paid_loans }}</p>
+<p>Pending Loans: {{ pending_loans }}</p>
+
+<h2>Recent Conversations</h2>
+
+<ul>
+  {% for log in recent_logs %}
+    <li>
+      {{ log.customer.name }} - {{ log.sender }}: {{ log.message }}
+    </li>
+  {% endfor %}
+</ul>
