@@ -146,9 +146,9 @@ This project helped me understand:
 
 ### Dashboard
 
-![Dashboard](voice_ai_system/screenshots/dashboard.png)
+![Dashboard](voice_ai_system/screenshots/Dashboard.png)
 
-[View Full Image](voice_ai_system/screenshots/dashboard.png)
+[View Full Image](voice_ai_system/screenshots/Dashboard.png)
 
 
 
