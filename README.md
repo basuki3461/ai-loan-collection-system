@@ -152,9 +152,9 @@ This project helped me understand:
 
 ### API response
 
-![API Response (Postman)](voice_ai_system/screenshots/API Response (Postman).png)
+![API Response (Postman)](voice_ai_system/screenshots/api-response.png)
 
-[View Full Image](voice_ai_system/screenshots/API Response (Postman).png)
+[View Full Image](voice_ai_system/screenshots/api-response.png)
 
 ## Author
 
